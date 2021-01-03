@@ -1,6 +1,5 @@
-### System.out.println("Hello There");
-
-- 🌱 while(true) continueLearning();
+### Hello 👋🏼
+- while(true) continueLearning(); 🧠                                  
 - Working on Java  
 - Looking to Collaborate on Java Projects   
 
