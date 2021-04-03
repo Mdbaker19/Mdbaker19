@@ -1,6 +1,6 @@
 ### Hello 👋🏼
 - while(true) continueLearning(); 🧠                                  
-- Working on Improving my projects from my time at Codeup!  
+- Working on Improving my projects from my time at Codeup, Working on a blog site for my wife, and practicing algorithms  
 - Learning Node JS, Express and MongoDB
 - Looking to Collaborate on Java Projects   
                                                                          
