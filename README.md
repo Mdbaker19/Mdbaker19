@@ -3,7 +3,7 @@
 -   continueLearning(); 🧠
 -   continueMentoring(); 🌱
 - }                                  
-- Working on C# w/ Unity && a chess notes app  && C++ hardware programming
+- Working on random fighting card game && a chess notes app  && C++ hardware programming
 - Still pretty heavily focused on work at the moment
 - Looking to collaborate on Java, React, JS, Arduino && Python Projects
                                                                          
