@@ -1,10 +1,8 @@
 ### Hello 👋🏼
 - while(true) {
 -   continueLearning(); 🧠
--   continueMentoring(); 🌱
 - }                                  
-- Working on Python Machine learning, Pygame && C++ hardware programming
-- Still pretty heavily focused on work at the moment
+- Working on Haxe and hardware programming
 - Looking to collaborate on Python NN, or Haxe
 - Haxe is fun
                                                                          
